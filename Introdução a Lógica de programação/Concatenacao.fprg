@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="itall"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-01 12:06:29 PM"/>
+        <attribute name="created" value="aXRhbGw7REVTS1RPUC05TVI5SlU3OzIwMjItMTAtMDE7MTI6MDI6MDkgUE07Mjg3MA=="/>
+        <attribute name="edited" value="aXRhbGw7REVTS1RPUC05TVI5SlU3OzIwMjItMTAtMDE7MTI6MDY6MjkgUE07MTsyOTg0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota01, nota02, nota03, nota04, media" type="Real" array="False" size=""/>
+            <declare name="nomeAluno" type="String" array="False" size=""/>
+            <output expression="&quot;Digite o seu nome: &quot;" newline="True"/>
+            <input variable="nomeAluno"/>
+            <output expression="&quot;Digite sua n1, n2, n3 e n4: &quot;" newline="True"/>
+            <input variable="nota01"/>
+            <input variable="nota02"/>
+            <input variable="nota03"/>
+            <input variable="nota04"/>
+            <assign variable="media" expression="(nota01 + nota02 + nota03 + nota04) / 4"/>
+            <output expression="nomeAluno &amp; &quot;, sua m&#233;dia &#233;: &quot; &amp; media &amp; &quot;!&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

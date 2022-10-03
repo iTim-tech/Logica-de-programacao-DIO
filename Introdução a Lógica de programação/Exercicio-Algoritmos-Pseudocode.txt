@@ -1,0 +1,38 @@
+O que são algoritmos e pseudocódigo:
+Exercício Final:
+
+1 - Crie um  algoritmo do seu dia:
+
+Resposta:
+INÍCIO DO DIA
+Acordar
+Escovar os dentes
+Tomar banho
+Preparar café da manhã
+Tomar café da manhã
+Organizar lanche e almoço
+Escovar os dentes
+Sair de casa
+Pegar (3) ônibus
+Ir para o traalho
+Trabalhar
+Pausar trabalho
+Almoçar
+Voltar a trabalhar
+Encerrar expediente
+Ir para a faculdade
+Estudar
+Pausar estudo
+Lanchar
+Voltar a estudar
+Pausar Estudo
+Assistir Aula
+Sair da fauldade
+Pegar (3) ônibus
+Chegar em casa
+Tomar banho
+Jantar
+Ir dormir
+FIM DO DIA
+
+2 - Abrir o site https://studio.code.org/s/mc/lessons/1/levels/1 e resolver todos os problemas em menos de uma hora.
